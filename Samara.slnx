@@ -1,1 +1,3 @@
-<Solution />
+<Solution>
+  <Project Path="Samara.Core/Samara.Core.csproj" />
+</Solution>
