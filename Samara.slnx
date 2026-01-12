@@ -3,4 +3,5 @@
   <Project Path="Samara.DataAccess/Samara.DataAccess.csproj" />
   <Project Path="Samara.Presentation/Samara.Presentation.csproj" Id="c0f22bed-f51f-4be5-8300-6bfd9615bf1b" />
   <Project Path="Samara.Service/Samara.Service.csproj" Id="2878561a-ef93-4aae-8446-96087de817cd" />
+  <Project Path="Samara.WebApi/Samara.WebApi.csproj" Id="da4f0844-5e53-40e6-8584-b476e750bca9" />
 </Solution>
