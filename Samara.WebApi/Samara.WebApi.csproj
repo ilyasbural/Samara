@@ -12,6 +12,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Samara.Presentation\Samara.Presentation.csproj" />
+    <ProjectReference Include="..\Samara.Utilize\Samara.Utilize.csproj" />
   </ItemGroup>
 
 </Project>

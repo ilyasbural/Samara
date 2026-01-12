@@ -6,9 +6,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\Samara.Service\Samara.Service.csproj" />
-    <ProjectReference Include="..\Samara.Utilize\Samara.Utilize.csproj" />
-  </ItemGroup>
-
 </Project>

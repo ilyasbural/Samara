@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Samara.DataAccess\Samara.DataAccess.csproj" />
+    <ProjectReference Include="..\Samara.Utilize\Samara.Utilize.csproj" />
   </ItemGroup>
 
 </Project>

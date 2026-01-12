@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Samara.Core\Samara.Core.csproj" />
+    <ProjectReference Include="..\Samara.Utilize\Samara.Utilize.csproj" />
   </ItemGroup>
 
 </Project>

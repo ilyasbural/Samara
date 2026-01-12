@@ -4,5 +4,6 @@
   <Project Path="Samara.Presentation/Samara.Presentation.csproj" Id="c0f22bed-f51f-4be5-8300-6bfd9615bf1b" />
   <Project Path="Samara.Service/Samara.Service.csproj" Id="2878561a-ef93-4aae-8446-96087de817cd" />
   <Project Path="Samara.UI/Samara.UI.csproj" Id="07c2b64b-d030-4708-8d67-7970d4f217f2" />
+  <Project Path="Samara.Utilize/Samara.Utilize.csproj" Id="0ecdfbf9-fe81-420b-8151-7c3cc905843b" />
   <Project Path="Samara.WebApi/Samara.WebApi.csproj" Id="da4f0844-5e53-40e6-8584-b476e750bca9" />
 </Solution>
