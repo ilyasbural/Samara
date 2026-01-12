@@ -11,3 +11,6 @@
 /Samara.Service/obj
 /Samara.Presentation/bin/Debug/net10.0
 /Samara.Presentation/obj
+/Samara.WebApi/bin/Debug/net10.0
+/Samara.WebApi/obj
+/Samara.slnLaunch.user
