@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="Samara.Core/Samara.Core.csproj" />
   <Project Path="Samara.DataAccess/Samara.DataAccess.csproj" />
+  <Project Path="Samara.Presentation/Samara.Presentation.csproj" Id="c0f22bed-f51f-4be5-8300-6bfd9615bf1b" />
   <Project Path="Samara.Service/Samara.Service.csproj" Id="2878561a-ef93-4aae-8446-96087de817cd" />
 </Solution>
